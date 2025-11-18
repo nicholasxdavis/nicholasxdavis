@@ -1,4 +1,4 @@
-<h1 align="center">Hola, I'm Nicholas</h1>
+<h1 align="center">Hello world, I'm Nicholas</h1>
 <h3 align="center">My focus is on creating clean, fast, and practical products.</h3>
 
 <p align="left"> <a href="https://twitter.com/blacnovadev" target="blank"><img src="https://img.shields.io/twitter/follow/blacnovadev?logo=twitter&style=for-the-badge" alt="blacnovadev" /></a> </p>
