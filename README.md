@@ -1,114 +1,27 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Nicholas</h1>
+<h3 align="center">My focus is on creating clean, fast, and practical products.</h3>
 
-<!-- Header -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicholasxdavis&label=Profile%20views&color=0e75b6&style=flat" alt="nicholasxdavis" /> </p>
 
-<h1>Hi there, I'm Nicholas Xander Davis 👋</h1>
-<h3>Web Developer | Digital Consultant | Graphics Designer | CEO of Blacnova</h3>
-<p>
-Based in Las Cruces, New Mexico, I specialize in creating innovative, user-friendly, and visually compelling digital experiences.
+<p align="left"> <a href="https://twitter.com/blacnovadev" target="blank"><img src="https://img.shields.io/twitter/follow/blacnovadev?logo=twitter&style=for-the-badge" alt="blacnovadev" /></a> </p>
+
+- I’m currently working on: [TIIO - Offline Media](https://nicholasxdavis.github.io/bn-blogs/blogs/tiio/index.html)
+
+- I regularly write articles on [https://blog.blacnova.net](https://blog.blacnova.net)
+
+- You can reach me at: **nic@blacnova.net**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/blacnovadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blacnovadev" height="30" width="40" /></a>
+<a href="https://instagram.com/blacnovadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blacnovadev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/blacnovaco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="blacnovaco" height="30" width="40" /></a>
 </p>
 
-<!-- Connect With Me -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p>
-<a href="mailto:nic@blacnova.net">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-nic%40blacnova.net-0891b2%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftoutlook%26logoColor%3Dwhite" alt="Email">
-</a>
-<a href="https://blacnova.net"> <!-- Replace with your portfolio/company link -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-Blacnova.net-0891b2%3Fstyle%3Dfor-the-badge%26logo%3Dglobe%26logoColor%3Dwhite" alt="Website">
-</a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/YOUR-USERNAME/"> <!-- TODO: Add your LinkedIn username -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
-</a>
-</p>
-</div>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/galore"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="galore" /></a></p><br><br>
 
-👨‍💻 About Me
-
-As the CEO of Blacnova, I bring over 8 years of experience to the table, helping businesses stand out with projects that are both functional and aesthetically pleasing, all while reflecting a unique brand identity.
-
-📍   Based in Las Cruces, New Mexico, USA
-
-🎂   Birthday: September 10, 2003
-
-🔭   I’m currently working on building next-generation web solutions for my clients.
-
-🌱   I’m always learning new development trends and design principles.
-
-📫   How to reach me: nic@blacnova.net
-
-🚀 What I Do (My Services)
-
-💻   Web Design & Development: Building modern, high-quality, and professional websites and web applications.
-
-📈   Business Development: Crafting effective, professional-level business growth and development strategies.
-
-📸   Photography: Producing high-quality, professional photos across any category.
-
-🎨   Graphics Design: Creating visually compelling assets that define and elevate a brand.
-
-🛠️ My Tech Stack
-
-<p align="center">
-<!-- Frontend -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-06B6D4%3Fstyle%3Dfor-the-badge%26logo%3Dtailwindcss%26logoColor%3Dwhite" alt="Tailwind CSS">
-
-<!-- Backend -->
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" alt="Node.js">
-
-<!-- Design -->
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe_Photoshop-31A8FF%3Fstyle%3Dfor-the-badge%26logo%3Dadobephotoshop%26logoColor%3Dblack" alt="Photoshop">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe_Illustrator-FF9A00%3Fstyle%3Dfor-the-badge%26logo%3Dadobeillustrator%26logoColor%3Dblack" alt="Illustrator">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-</p>
-
-📊 My GitHub Stats
-
-<p align="center">
-<!-- GitHub Stats Card -->
-<img
-src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dnicholasxdavis%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D0891b2%26icon_color%3D0891b2%26text_color%3Dc9d1d9%26bg_color%3D00000000"
-alt="Nicholas Davis's GitHub Stats"
-/>
-
-<!-- Top Languages Card -->
-
-<img
-src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dnicholasxdavis%26layout%3Dcompact%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D0891b2%26text_color%3Dc9d1d9%26bg_color%3D00000000"
-alt="Top Languages"
-/>
-
-<!-- GitHub Streak Card -->
-
-<img
-src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3Dnicholasxdavis%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D0891b2%26ring%3D0891b2%26fire%3D0891b2%26currStreakNum%3Dc9d1d9%26sideNums%3Dc9d1d9%26currStreakLabel%3Dc9d1d9%26sideLabels%3Dc9d1d9%26dates%3Dc9d1d9%26bg_color%3D00000000"
-alt="GitHub Streak"
-/>
-
-</p>
-
-🌟 Testimonial
-
-"Working with Nicholas has been an absolute pleasure. I was impressed with his attention to detail, his web design skills and his professional approach to our timelines and processes."
-
-— Jessica Miller
-
-🤝 Trusted By
-
-<!--
-To add your client logos, upload them to a public repo or image host
-and replace the 'YOUR_LOGO_URL' placeholders below.
--->
-
-<p align="center">
-<img src="https_placeholder_logo_1_url" width="100" alt="Client 1 Logo" style="margin: 10px;"/>
-<img src="https_placeholder_logo_2_url" width="100" alt="Client 2 Logo" style="margin: 10px;"/>
-<img src="https_placeholder_logo_3_url" width="100" alt="Client 3 Logo" style="margin: 10px;"/>
-<img src="https_placeholder_logo_4_url" width="100" alt="Client 4 Logo" style="margin: 10px;"/>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicholasxdavis&show_icons=true&locale=en" alt="nicholasxdavis" /></p>
