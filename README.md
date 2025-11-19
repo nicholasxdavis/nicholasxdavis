@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.blacnova.net/#contact" target="blank"><img align="center" src="https://www.blacnova.net/img/bn.png" alt="blacnova" height="30" width="40" /></a>
 <a href="https://twitter.com/blacnovadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blacnovadev" height="30" width="40" /></a>
 <a href="https://instagram.com/blacnovadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blacnovadev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/blacnovaco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="blacnovaco" height="30" width="40" /></a>
