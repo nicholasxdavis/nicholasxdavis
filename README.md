@@ -1,7 +1,7 @@
 <h1 align="center">I'm Nicholas</h1>
 <h3 align="center">My focus is on creating clean, fast, and practical products.</h3>
 
-<p align="left"> <a href="https://twitter.com/blacnovadev" target="blank"><img src="https://img.shields.io/twitter/follow/blacnovadev?logo=twitter&style=for-the-badge" alt="blacnovadev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/blacnovadev" target="blank"><img src="https://www.blacnova.net/img/logo.png](https://www.blacnova.net/img/logo_white.png" alt="blacnovadev" /></a> </p>
 
 - I’m currently working on: [TIIO - Offline Media](https://nicholasxdavis.github.io/bn-blogs/blogs/tiio/index.html)
 
