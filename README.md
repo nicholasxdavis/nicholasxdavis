@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://twitter.com/blacnovadev" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/blacnovadev?logo=twitter&style=for-the-badge" alt="Follow @blacnovadev" />
+    <img src="https://img.shields.io/badge/FOLLOW-@BLACNOVADEV-black?style=for-the-badge&logo=x&logoColor=white" alt="Follow @blacnovadev" />
   </a>
   <a href="https://www.blacnova.net">
     <img src="https://img.shields.io/badge/BLACNOVA-WEBSITE-black?style=for-the-badge" alt="Blacnova Website" />
