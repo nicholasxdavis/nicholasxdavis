@@ -13,11 +13,6 @@
   </a>
 </p>
 
-
-- I’m currently working on: [TIIO - Offline Media](https://nicholasxdavis.github.io/bn-blogs/blogs/tiio/index.html)
-
-- I regularly write articles on [https://blog.blacnova.net](https://blog.blacnova.net)
-
 - You can reach me at: **nic@blacnova.net**
 
 <h3 align="left">Connect with me:</h3>
