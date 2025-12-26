@@ -3,13 +3,13 @@
 
 <p align="left">
   <a href="https://twitter.com/blacnovadev" target="_blank">
-    <img src="https://img.shields.io/badge/FOLLOW-@BLACNOVADEV-black?style=for-the-badge&logo=x&logoColor=white" alt="Follow @blacnovadev" />
+    <img src="https://img.shields.io/badge/FOLLOW-@BLACNOVADEV-black?style=for-the-badge&logo=x&logoColor=white" alt="Follow @blacnovadev"/>
   </a>
   <a href="https://www.blacnova.net">
-    <img src="https://img.shields.io/badge/BLACNOVA-WEBSITE-black?style=for-the-badge" alt="Blacnova Website" />
+    <img src="https://img.shields.io/badge/BLACNOVA-WEBSITE-black?style=for-the-badge" alt="Blacnova Website"/>
   </a>
   <a href="https://blog.blacnova.net">
-    <img src="https://img.shields.io/badge/BLACNOVA-BLOG-black?style=for-the-badge" alt="Blacnova Blog" />
+    <img src="https://img.shields.io/badge/BLACNOVA-BLOG-black?style=for-the-badge" alt="Blacnova Blog"/>
   </a>
 </p>
 
